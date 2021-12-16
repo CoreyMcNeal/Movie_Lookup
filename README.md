@@ -3,4 +3,4 @@ Python program which scrapes images and titles from a movie website. Clicking on
 
 Utilizes PySimpleGUI to build a graphical user interface for the user, as well as the PIL module to help with the manipulation of file images.
 
-*One of my earliest programs, may try to redo it in another language or fix it up in python
+*One of my earliest programs, will redo it in another language or fix it up in python
